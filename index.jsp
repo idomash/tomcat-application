@@ -9,5 +9,6 @@
 <body>
     <h1>Welcome to My Tomcat Application!</h1>
     <p>This is a simple JSP page.</p>
+    <p>This is a simple JSP page2.</p>
 </body>
 </html>
