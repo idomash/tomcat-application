@@ -1,2 +1,0 @@
-# tomcat-application
-Devops Course
